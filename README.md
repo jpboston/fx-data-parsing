@@ -13,4 +13,4 @@ Example Shell commands include:
 • awk
 • tput
 
-The included PNG image displays samples of the output. The image is compositied by photoshop to fit the different sections in a smaller frame for demo purposes.
+The included PNG image displays samples of the output. The image is composited by photoshop to fit the different sections in a smaller frame for demo purposes.
