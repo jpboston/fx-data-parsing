@@ -2,8 +2,7 @@
 
 # Purpose: data processing on imported forex data
 
-# section border
-
+# set interface colors - can be improved for performance
 GREEN="tput setaf 2"
 RED="tput setaf 1"
 CYAN="tput setaf 6"
@@ -16,7 +15,7 @@ SET_NORMAL=$(tput sgr0)
 SET_GREEN=$(tput setaf 2)
 SET_RED=$(tput setaf 1)
 
-
+# section border
 SECTION='...........................................................................'
 
 # COLUMN HEADERS -----------------------------------------
